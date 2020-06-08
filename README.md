@@ -51,7 +51,7 @@ Custom 3D Modelled Stevenson Screen                 | ![Stevenson Screen][12a]  
 [11a]:  <img/components/battery.jpg>
 [11b]:  <https://www.sparkfun.com/products/13856>
 [12a]:  <img/components/stevenson.png>
-[12b]:  <https://www.thingiverse.com>
+[12b]:  <https://www.thingiverse.com/thing:4435632>
 
 
 ## Setup

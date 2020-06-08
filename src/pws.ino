@@ -41,7 +41,7 @@
 
    3.5W solar panel                                   https://www.sparkfun.com/products/13782
    SparkFun Sunny Buddy                               https://www.sparkfun.com/products/12885
-   Custom 3D Modelled Stevenson Screen                https://www.thingiverse.com/
+   Custom 3D Modelled Stevenson Screen                https://www.thingiverse.com/thing:4435632
 
 
 * Creation:       04/2017
