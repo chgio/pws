@@ -4,8 +4,8 @@
 
 ##### SEE THE LIVE DATA PUBLISHED BY THIS CODE ON:
 * [ThingSpeak](https://thingspeak.com/channels/920701)
-* [WeatherUnderground](https://www.wunderground.com/dashboard/pws/ILIGURIA189)
-* [WeatherCloud](https://app.weathercloud.net/d2801062032#profile)
+* [WeatherUnderground](https://www.wunderground.com/dashboard/pws/IGENOA2776)
+* [WeatherCloud](https://app.weathercloud.net/d0746983513#profile)
 
 ![The PWS deployed](img/pws1.jpg)
 ###### IMAGES ARE [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
